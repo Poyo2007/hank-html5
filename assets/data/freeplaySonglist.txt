@@ -1,0 +1,4 @@
+Tutorial:gf:1
+Murderface:hank:7
+Mercenary:hank:7
+Assassination:hank:7
